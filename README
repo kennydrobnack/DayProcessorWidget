@@ -1,4 +1,12 @@
-This is a DashBoard widget for MacOS/X that shows how much of the day has been processed by your computer.
+*Overview*
+
+DayProcessorWidget is a DashBoard widget for MacOS/X that shows how much of the day has been processed by your computer.
+
+*Installation*
+
+To install, simply download the DayProcessorWidget.zip file somewhere on your computer, unzip, and double-click. This will open it in DashBoard and it will prompt if you want to keep it or not. Of course you want to keep it!
+
+*About the DayProcessorWidget*
 
 The idea was inspired by a Yahoo Widget available at:
 
@@ -7,3 +15,7 @@ http://widgets.yahoo.com/widgets/ultimate-day-processor
 Unlike Ultimate Day Processor, DayProcessorWidget does not have a built-in CPU meter.
 
 It was built using DashCode and still has remnants of the built-in countdown Widget template.
+
+*Why?*
+
+Seeing how little of the day is remaining and how fast it is flying by seemed like a great anti-procrastination tool. Give it a try!
