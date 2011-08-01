@@ -1,0 +1,9 @@
+This is a DashBoard widget for MacOS/X that shows how much of the day has been processed by your computer.
+
+The idea was inspired by a Yahoo Widget available at:
+
+http://widgets.yahoo.com/widgets/ultimate-day-processor
+
+Unlike Ultimate Day Processor, DayProcessorWidget does not have a built-in CPU meter.
+
+It was built using DashCode and still has remnants of the built-in countdown Widget template.
